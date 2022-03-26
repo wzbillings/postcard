@@ -1,6 +1,6 @@
 ---
 title: "W. Zane Billings"
-image: "frank.jpg"
+image: "zane.png"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/in/wzbillings"
